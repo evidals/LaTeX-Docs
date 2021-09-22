@@ -2,3 +2,6 @@
 [submodule "Programming/Cpp-Notes"]
 	path = Programming/Cpp-Notes
 	url = https://github.com/evidals/LaTeX-Cpp_Notes
+[submodule "Regelungstechnik/RST1"]
+	path = Regelungstechnik/RST1
+	url = https://github.com/evidals/LaTeX-RST1
